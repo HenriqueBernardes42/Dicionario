@@ -5,4 +5,16 @@
 }
 .App {
   text-align: center;
+  height: 100vh;
+  background-color: blueviolet;
+}
+img{
+  width: 800px;
+  height: 400px;
+}
+
+div{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
 }
